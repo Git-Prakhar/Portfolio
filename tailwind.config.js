@@ -18,7 +18,9 @@ module.exports = {
         from: '#316099',
         to: '#52A0FF'
       },
-      lightBlack: '#3F3F3F'
+      lightBlack: '#3F3F3F',
+      fullRed: '#FF706B',
+      transparent: 'transparent',
     },
     borderRadius: {
       '50' : '17%',
